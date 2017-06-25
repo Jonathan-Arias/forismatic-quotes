@@ -1,0 +1,14 @@
+body {
+	background-color: rgb(200,200,200);
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 20%;
+	text-align: center;
+}
+
+#quote {
+	text-transform: uppercase;
+}
+
+#author {
+	text-transform: uppercase;
+}
